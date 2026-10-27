@@ -1,0 +1,2959 @@
+{
+  "source_collection": "suggar 表情包 (NekoGirl)",
+  "images": [
+    {
+      "source_index": 1,
+      "source_name": "NekoGirl_Bug_2026-10-27-20-01-37.gif",
+      "category": "work",
+      "filename": "0001_Bug.gif",
+      "path": "memes/work/0001_Bug.gif",
+      "sha256": "6fca4eec486f2d165c44a32277c88ae56975361d75d5618239ac1490dad60849",
+      "frames": 99,
+      "duration_ms": 1980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 2,
+      "source_name": "NekoGirl_PNGTuber 加载中_2026-10-27-21-16-37.gif",
+      "category": "work",
+      "filename": "0002_PNGTuber 加载中.gif",
+      "path": "memes/work/0002_PNGTuber 加载中.gif",
+      "sha256": "17bb4adf84b48dc6ed92b945d0eb70622427ec653af4192f0c1c1470b7ebb347",
+      "frames": 49,
+      "duration_ms": 980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 3,
+      "source_name": "NekoGirl_PNGTuber 说教_2026-10-27-21-09-42.gif",
+      "category": "reply",
+      "filename": "0003_PNGTuber 说教.gif",
+      "path": "memes/reply/0003_PNGTuber 说教.gif",
+      "sha256": "33a0b02c189c8062e4cb8ab25716d34eca6b738fe868949249522704d96f946b",
+      "frames": 26,
+      "duration_ms": 520,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 4,
+      "source_name": "NekoGirl_PNGTuber 说话_2026-10-27-21-09-35.gif",
+      "category": "reply",
+      "filename": "0004_PNGTuber 说话.gif",
+      "path": "memes/reply/0004_PNGTuber 说话.gif",
+      "sha256": "207bdf94a7550d2e122fe87c4daf6babfcc5ce0b2c527a7f8f0cc8abccc6ff5b",
+      "frames": 26,
+      "duration_ms": 520,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 5,
+      "source_name": "NekoGirl_PNGTuber 说话 2_2026-10-27-21-09-39.gif",
+      "category": "reply",
+      "filename": "0005_PNGTuber 说话 2.gif",
+      "path": "memes/reply/0005_PNGTuber 说话 2.gif",
+      "sha256": "7dd0dbead0cc40c8a2a425a58c156ec6f852037e16c1c0b730fa6d110d8494ce",
+      "frames": 26,
+      "duration_ms": 520,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 6,
+      "source_name": "NekoGirl_PNGTuber 闲置_2026-10-27-21-16-25.gif",
+      "category": "work",
+      "filename": "0006_PNGTuber 闲置.gif",
+      "path": "memes/work/0006_PNGTuber 闲置.gif",
+      "sha256": "1996041f2ae3ba9a589f6f58d4d53a7cc8858fa9d170e57f3a4bca02b5f0afc8",
+      "frames": 49,
+      "duration_ms": 980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 7,
+      "source_name": "NekoGirl_PNGTuber 闲置 2_2026-10-27-21-16-31.gif",
+      "category": "work",
+      "filename": "0007_PNGTuber 闲置 2.gif",
+      "path": "memes/work/0007_PNGTuber 闲置 2.gif",
+      "sha256": "576e79e62c18d63bf1587e6a3e2c461691078860bd1ee23960d4307a19e14de9",
+      "frames": 49,
+      "duration_ms": 980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 8,
+      "source_name": "NekoGirl_Popcat 帧_2026-10-27-20-32-34.gif",
+      "category": "reply",
+      "filename": "0008_Popcat 帧.gif",
+      "path": "memes/reply/0008_Popcat 帧.gif",
+      "sha256": "4d1a7455b36f25f9111cfa9b30af9e56051a852b949b2976c39b9b47df24ff98",
+      "frames": 19,
+      "duration_ms": 380,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 9,
+      "source_name": "NekoGirl_Popcat 平滑_2026-10-27-20-32-37.gif",
+      "category": "reply",
+      "filename": "0009_Popcat 平滑.gif",
+      "path": "memes/reply/0009_Popcat 平滑.gif",
+      "sha256": "3099ec6647715ae2de54aeca64c534c6244b2923322c9731fa9f4f13274f0b3b",
+      "frames": 19,
+      "duration_ms": 380,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 10,
+      "source_name": "NekoGirl_Raid 1_2026-10-27-20-32-58.gif",
+      "category": "greeting",
+      "filename": "0010_Raid 1.gif",
+      "path": "memes/greeting/0010_Raid 1.gif",
+      "sha256": "2af10706d82f12dd17996693069f820664304689737fc110492ec8d8e3057ec7",
+      "frames": 66,
+      "duration_ms": 1320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 11,
+      "source_name": "NekoGirl_Raid 2_2026-10-27-20-59-00.gif",
+      "category": "greeting",
+      "filename": "0011_Raid 2.gif",
+      "path": "memes/greeting/0011_Raid 2.gif",
+      "sha256": "a907a7908e16eb56d71ec0629e9e67ea16314eb041241d414b54ca0b7e510d6a",
+      "frames": 104,
+      "duration_ms": 2080,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 12,
+      "source_name": "NekoGirl_TrashTuber 说教_2026-10-27-20-49-09.gif",
+      "category": "reply",
+      "filename": "0012_TrashTuber 说教.gif",
+      "path": "memes/reply/0012_TrashTuber 说教.gif",
+      "sha256": "5664049878f44602b372c1272d3a08d54615aead0c93d0ee71ca95b9cbedb309",
+      "frames": 26,
+      "duration_ms": 520,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 13,
+      "source_name": "NekoGirl_TrashTuber 说话_2026-10-27-20-49-06.gif",
+      "category": "reply",
+      "filename": "0013_TrashTuber 说话.gif",
+      "path": "memes/reply/0013_TrashTuber 说话.gif",
+      "sha256": "afd89021dee87122926885c8471f5f5a4c4870d954970369c6ad5dc2574da5c8",
+      "frames": 26,
+      "duration_ms": 520,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 14,
+      "source_name": "NekoGirl_TrashTuber 闲置_2026-10-27-20-43-46.gif",
+      "category": "work",
+      "filename": "0014_TrashTuber 闲置.gif",
+      "path": "memes/work/0014_TrashTuber 闲置.gif",
+      "sha256": "19f9ac171a21ab53325b703cc1bd9edfcf3fefc1e65f6dcb7ebfd129d3ee7e85",
+      "frames": 49,
+      "duration_ms": 980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 15,
+      "source_name": "NekoGirl_一切都好 1_2026-10-27-20-49-42.gif",
+      "category": "teasing",
+      "filename": "0015_一切都好 1.gif",
+      "path": "memes/teasing/0015_一切都好 1.gif",
+      "sha256": "dc00bbcb4aab9fea66b5ea89ebe645442aebe3790cc62fe21eed171df9752262",
+      "frames": 79,
+      "duration_ms": 1580,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 16,
+      "source_name": "NekoGirl_一切都好 2_2026-10-27-20-42-29.gif",
+      "category": "teasing",
+      "filename": "0016_一切都好 2.gif",
+      "path": "memes/teasing/0016_一切都好 2.gif",
+      "sha256": "c060579dcf464354b539014fd368e2dec5a12799ae34870d9c6a37008d592808",
+      "frames": 79,
+      "duration_ms": 1580,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 17,
+      "source_name": "NekoGirl_一切都好 3_2026-10-27-20-42-38.gif",
+      "category": "teasing",
+      "filename": "0017_一切都好 3.gif",
+      "path": "memes/teasing/0017_一切都好 3.gif",
+      "sha256": "fc4e2c5848b2b871461eb5a26738b72262e56829b201b36c0cb1919e6d8a8f90",
+      "frames": 79,
+      "duration_ms": 1580,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 18,
+      "source_name": "NekoGirl_一切都好 4_2026-10-27-20-42-46.gif",
+      "category": "teasing",
+      "filename": "0018_一切都好 4.gif",
+      "path": "memes/teasing/0018_一切都好 4.gif",
+      "sha256": "4f72f3c5d71477bfd1185f6938db2221ca408b4757d45c867db93e1de1fef290",
+      "frames": 79,
+      "duration_ms": 1580,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 19,
+      "source_name": "NekoGirl_一切都好 5_2026-10-27-20-42-54.gif",
+      "category": "teasing",
+      "filename": "0019_一切都好 5.gif",
+      "path": "memes/teasing/0019_一切都好 5.gif",
+      "sha256": "c7c0eb47f124a466651ebaeb5120fbcc25619eb77dbcdd6b0bc22e8bf686716d",
+      "frames": 79,
+      "duration_ms": 1580,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 20,
+      "source_name": "NekoGirl_一切都好 6_2026-10-27-20-43-28.gif",
+      "category": "teasing",
+      "filename": "0020_一切都好 6.gif",
+      "path": "memes/teasing/0020_一切都好 6.gif",
+      "sha256": "98d6577fb3c57595aee826ea8a02c82f843ed22b1d42c18ab7ab2cb401fe7186",
+      "frames": 79,
+      "duration_ms": 1580,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 21,
+      "source_name": "NekoGirl_主意_2026-10-27-20-17-18.gif",
+      "category": "confused",
+      "filename": "0021_主意.gif",
+      "path": "memes/confused/0021_主意.gif",
+      "sha256": "7cf7fd8fbf3d9a85dbc6ec1538e8995fa5323c96ff555f02f4ba85f71a1ea799",
+      "frames": 66,
+      "duration_ms": 1320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 22,
+      "source_name": "NekoGirl_书呆子 1_2026-10-27-21-13-44.gif",
+      "category": "teasing",
+      "filename": "0022_书呆子 1.gif",
+      "path": "memes/teasing/0022_书呆子 1.gif",
+      "sha256": "3274b4bfe1c900aaf9827d003ceccbd1d7676a7e181403e5c483a660c174f093",
+      "frames": 66,
+      "duration_ms": 1320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 23,
+      "source_name": "NekoGirl_书呆子 2_2026-10-27-21-13-51.gif",
+      "category": "teasing",
+      "filename": "0023_书呆子 2.gif",
+      "path": "memes/teasing/0023_书呆子 2.gif",
+      "sha256": "1afdf7bf7ec2bfc1dbed47b3098608e9557f7599eac3fe2fcf4b2f8ec267443a",
+      "frames": 66,
+      "duration_ms": 1320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 24,
+      "source_name": "NekoGirl_书呆子 3_2026-10-27-21-13-58.gif",
+      "category": "teasing",
+      "filename": "0024_书呆子 3.gif",
+      "path": "memes/teasing/0024_书呆子 3.gif",
+      "sha256": "2ee42b013db0cd770232c4f00d73e5e6b4984bf6daf1d83ed39a3ae8f70c6e61",
+      "frames": 66,
+      "duration_ms": 1320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 25,
+      "source_name": "NekoGirl_停止_2026-10-27-20-37-51.gif",
+      "category": "reply",
+      "filename": "0025_停止.gif",
+      "path": "memes/reply/0025_停止.gif",
+      "sha256": "76ec3873ebc582ca981330b1a1123714fd90e67fcb0f8b0e137d0964759153f4",
+      "frames": 72,
+      "duration_ms": 1440,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 26,
+      "source_name": "NekoGirl_停止工作_2026-10-27-20-38-19.gif",
+      "category": "work",
+      "filename": "0026_停止工作.gif",
+      "path": "memes/work/0026_停止工作.gif",
+      "sha256": "a0dc4a82af3e1861a7974a1c48fff856f504d5548170d8342e135c57050de9f1",
+      "frames": 99,
+      "duration_ms": 1980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 27,
+      "source_name": "NekoGirl_催眠_2026-10-27-20-17-30.gif",
+      "category": "sleep",
+      "filename": "0027_催眠.gif",
+      "path": "memes/sleep/0027_催眠.gif",
+      "sha256": "2807fc7b30ee0972e088c48e3a646f1b44b53063c459323d2be7f9e437c7df44",
+      "frames": 99,
+      "duration_ms": 1980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 28,
+      "source_name": "NekoGirl_像素墨镜反光_2026-10-27-20-38-43.gif",
+      "category": "teasing",
+      "filename": "0028_像素墨镜反光.gif",
+      "path": "memes/teasing/0028_像素墨镜反光.gif",
+      "sha256": "d80d7c4676d32ae7228d49b149c254546aa7812fe3aaf710f8c893be87fb6b10",
+      "frames": 82,
+      "duration_ms": 1640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 29,
+      "source_name": "NekoGirl_六七_2026-10-27-20-35-28.gif",
+      "category": "entertainment",
+      "filename": "0029_六七.gif",
+      "path": "memes/entertainment/0029_六七.gif",
+      "sha256": "bc25773aa983c1bdebc352bf292b236d61f0d6f124cdef7c36932bf564b4af54",
+      "frames": 32,
+      "duration_ms": 640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 30,
+      "source_name": "NekoGirl_六七(呆)_2026-10-27-20-35-32.gif",
+      "category": "confused",
+      "filename": "0030_六七(呆).gif",
+      "path": "memes/confused/0030_六七(呆).gif",
+      "sha256": "709e94856a6818517058fa2dc655b446141f1edaeef35af5192be9202c699834",
+      "frames": 32,
+      "duration_ms": 640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 31,
+      "source_name": "NekoGirl_冒泡 1_2026-10-27-21-05-51.gif",
+      "category": "greeting",
+      "filename": "0031_冒泡 1.gif",
+      "path": "memes/greeting/0031_冒泡 1.gif",
+      "sha256": "529ecaf973de8248f4d539b6d84837b8dcd66f8a0125949c598eae92263c1229",
+      "frames": 66,
+      "duration_ms": 1320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 32,
+      "source_name": "NekoGirl_冒泡 2_2026-10-27-21-06-04.gif",
+      "category": "greeting",
+      "filename": "0032_冒泡 2.gif",
+      "path": "memes/greeting/0032_冒泡 2.gif",
+      "sha256": "3f760923607f4f4a587fef2eca61e17586d58abab5c7962b89d5e838d3ed9d07",
+      "frames": 116,
+      "duration_ms": 2320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 33,
+      "source_name": "NekoGirl_刀 1_2026-10-27-20-17-37.gif",
+      "category": "angry",
+      "filename": "0033_刀 1.gif",
+      "path": "memes/angry/0033_刀 1.gif",
+      "sha256": "656a35aeebbb4d291851fd6297ab31af75bf71301f9dc2b74e7de633f44e06c7",
+      "frames": 57,
+      "duration_ms": 1140,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 34,
+      "source_name": "NekoGirl_刀 2_2026-10-27-20-17-46.gif",
+      "category": "angry",
+      "filename": "0034_刀 2.gif",
+      "path": "memes/angry/0034_刀 2.gif",
+      "sha256": "1ece319c9602e0d4421a166d79050d5c26d53f9cfb7f1689d76a6d47477fda9d",
+      "frames": 57,
+      "duration_ms": 1140,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 35,
+      "source_name": "NekoGirl_切(剪刀)_2026-10-27-20-15-54.gif",
+      "category": "angry",
+      "filename": "0035_切(剪刀).gif",
+      "path": "memes/angry/0035_切(剪刀).gif",
+      "sha256": "8be54758435275e475dcb9a483db4bd9de967affcc1cfd116c80224f102c8fa2",
+      "frames": 32,
+      "duration_ms": 640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 36,
+      "source_name": "NekoGirl_到达_2026-10-27-19-58-03.gif",
+      "category": "greeting",
+      "filename": "0036_到达.gif",
+      "path": "memes/greeting/0036_到达.gif",
+      "sha256": "7b808fcbf7e85756af6da5459def699933cbf6b3ab1d08db79b7d75fc49801e2",
+      "frames": 104,
+      "duration_ms": 2080,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 37,
+      "source_name": "NekoGirl_到达(拿勺子)_2026-10-27-19-58-51.gif",
+      "category": "greeting",
+      "filename": "0037_到达(拿勺子).gif",
+      "path": "memes/greeting/0037_到达(拿勺子).gif",
+      "sha256": "32fc117592c0cd64e604d4e8ec0a036ed96ba7164f243e3c828bee7dce341fc3",
+      "frames": 109,
+      "duration_ms": 2180,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 38,
+      "source_name": "NekoGirl_到达(拿筷子)_2026-10-27-19-58-41.gif",
+      "category": "greeting",
+      "filename": "0038_到达(拿筷子).gif",
+      "path": "memes/greeting/0038_到达(拿筷子).gif",
+      "sha256": "226207838623f9d60b40c3207657e971ea961f0df3e837a66ab205db26ab2fbe",
+      "frames": 109,
+      "duration_ms": 2180,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 39,
+      "source_name": "NekoGirl_刷卡_2026-10-27-20-02-26.gif",
+      "category": "money",
+      "filename": "0039_刷卡.gif",
+      "path": "memes/money/0039_刷卡.gif",
+      "sha256": "ae8ac7096bfc75906f672fa32b38ff0999d6204ad26d9eab5428f1555ba9f21b",
+      "frames": 49,
+      "duration_ms": 980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 40,
+      "source_name": "NekoGirl_加油_2026-10-27-20-03-50.gif",
+      "category": "entertainment",
+      "filename": "0040_加油.gif",
+      "path": "memes/entertainment/0040_加油.gif",
+      "sha256": "8c228ee44cc322007e14793ded4ad7ac1a3f868216ea57490ccdfc3cbde43555",
+      "frames": 49,
+      "duration_ms": 980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 41,
+      "source_name": "NekoGirl_加载(睡觉)_2026-10-27-21-12-47.gif",
+      "category": "sleep",
+      "filename": "0041_加载(睡觉).gif",
+      "path": "memes/sleep/0041_加载(睡觉).gif",
+      "sha256": "6a7bc4ad257177e0a48fd046ab3555228a92fe856f28e5a89891f7e1f6f39506",
+      "frames": 199,
+      "duration_ms": 3980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 42,
+      "source_name": "NekoGirl_加载(茶_咖啡杯)_2026-10-27-21-17-15.gif",
+      "category": "food",
+      "filename": "0042_加载(茶_咖啡杯).gif",
+      "path": "memes/food/0042_加载(茶_咖啡杯).gif",
+      "sha256": "6de8a607738061463163c1b295a7f0860c84abbd310f222fb6dfa94d8f99f456",
+      "frames": 199,
+      "duration_ms": 3980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 43,
+      "source_name": "NekoGirl_加载(马克杯)_2026-10-27-21-12-27.gif",
+      "category": "food",
+      "filename": "0043_加载(马克杯).gif",
+      "path": "memes/food/0043_加载(马克杯).gif",
+      "sha256": "23c4429c2128ead259507e2a1de60e74929221854dde31d89ababd0a21e8562e",
+      "frames": 199,
+      "duration_ms": 3980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 44,
+      "source_name": "NekoGirl_反向点赞_2026-10-27-20-43-33.gif",
+      "category": "reply",
+      "filename": "0044_反向点赞.gif",
+      "path": "memes/reply/0044_反向点赞.gif",
+      "sha256": "2d038c008b8af9a8ec6569b7808ce991eab1c0075fe57bee4b8b77747c62bf0a",
+      "frames": 49,
+      "duration_ms": 980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 45,
+      "source_name": "NekoGirl_反转_2026-10-27-20-33-53.gif",
+      "category": "teasing",
+      "filename": "0045_反转.gif",
+      "path": "memes/teasing/0045_反转.gif",
+      "sha256": "a30d7576d5e567307ead71e734cad78d9dba7362cf7f25bd54e65a6c166e0029",
+      "frames": 67,
+      "duration_ms": 1340,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 46,
+      "source_name": "NekoGirl_叹号_2026-10-27-20-18-37.gif",
+      "category": "reply",
+      "filename": "0046_叹号.gif",
+      "path": "memes/reply/0046_叹号.gif",
+      "sha256": "220d4121190b10240e7282a49bb9ebab24cb7b9d3dde604220af0413e74b0b5d",
+      "frames": 57,
+      "duration_ms": 1140,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 47,
+      "source_name": "NekoGirl_吃(爆米花)_2026-10-27-20-19-07.gif",
+      "category": "food",
+      "filename": "0047_吃(爆米花).gif",
+      "path": "memes/food/0047_吃(爆米花).gif",
+      "sha256": "e2fab7d6bfea23f0350ef227120b312571147b8265ee86ff096267a289936a95",
+      "frames": 82,
+      "duration_ms": 1640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 48,
+      "source_name": "NekoGirl_吃(甜甜圈)_2026-10-27-20-18-58.gif",
+      "category": "food",
+      "filename": "0048_吃(甜甜圈).gif",
+      "path": "memes/food/0048_吃(甜甜圈).gif",
+      "sha256": "1ec03ccd8dc550cce925e0021abea366d6e0c6eeeaebcc92020b86ca5a9f8707",
+      "frames": 199,
+      "duration_ms": 3980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 49,
+      "source_name": "NekoGirl_吃(西瓜)_2026-10-27-20-19-09.gif",
+      "category": "food",
+      "filename": "0049_吃(西瓜).gif",
+      "path": "memes/food/0049_吃(西瓜).gif",
+      "sha256": "bded60f8be453119948d898f86b6219075e93ffd7ebbae03281891d81438fa04",
+      "frames": 19,
+      "duration_ms": 380,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 50,
+      "source_name": "NekoGirl_吉他_2026-10-27-20-19-49.gif",
+      "category": "entertainment",
+      "filename": "0050_吉他.gif",
+      "path": "memes/entertainment/0050_吉他.gif",
+      "sha256": "7411294125a853a901763aed1d5f62d01ffea0b8934b17c47a0eef43a37b5a17",
+      "frames": 66,
+      "duration_ms": 1320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 51,
+      "source_name": "NekoGirl_吐舌 1_2026-10-27-19-58-58.gif",
+      "category": "shy",
+      "filename": "0051_吐舌 1.gif",
+      "path": "memes/shy/0051_吐舌 1.gif",
+      "sha256": "4d94f5e854d186183fece73bcf8a5f687412dd615cefad07e5980f4c40414d64",
+      "frames": 32,
+      "duration_ms": 640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 52,
+      "source_name": "NekoGirl_吐舌 2_2026-10-27-19-59-18.gif",
+      "category": "shy",
+      "filename": "0052_吐舌 2.gif",
+      "path": "memes/shy/0052_吐舌 2.gif",
+      "sha256": "b1f8fe77426d65e866c3193adb7b5a2ca095e60a4b3aec12656a3cd369a442de",
+      "frames": 32,
+      "duration_ms": 640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 53,
+      "source_name": "NekoGirl_吐舌 3_2026-10-27-20-00-40.gif",
+      "category": "shy",
+      "filename": "0053_吐舌 3.gif",
+      "path": "memes/shy/0053_吐舌 3.gif",
+      "sha256": "50355119931b69d7f84d68feff661f60065e486b7e75364726b5c9be7d7555bc",
+      "frames": 32,
+      "duration_ms": 640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 54,
+      "source_name": "NekoGirl_吐舌 4_2026-10-27-20-00-44.gif",
+      "category": "shy",
+      "filename": "0054_吐舌 4.gif",
+      "path": "memes/shy/0054_吐舌 4.gif",
+      "sha256": "62227e5d4066f795d3a08ff452b4e9a63ff6c3c1194dea141129f7f4a2391ebd",
+      "frames": 32,
+      "duration_ms": 640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 55,
+      "source_name": "NekoGirl_呆 1_2026-10-27-20-12-10.gif",
+      "category": "confused",
+      "filename": "0055_呆 1.gif",
+      "path": "memes/confused/0055_呆 1.gif",
+      "sha256": "f65ae775ffcb600ac3a4f0300cd80c8a32493f6ec7965a3c275796f7fae40d5c",
+      "frames": 49,
+      "duration_ms": 980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 56,
+      "source_name": "NekoGirl_呆 2_2026-10-27-20-12-18.gif",
+      "category": "confused",
+      "filename": "0056_呆 2.gif",
+      "path": "memes/confused/0056_呆 2.gif",
+      "sha256": "1e2d280fd8dc7bf1af9a4ed38b0201a374c6a32e56113adaec0d43f9cf2a617f",
+      "frames": 82,
+      "duration_ms": 1640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 57,
+      "source_name": "NekoGirl_呆 3_2026-10-27-20-20-41.gif",
+      "category": "confused",
+      "filename": "0057_呆 3.gif",
+      "path": "memes/confused/0057_呆 3.gif",
+      "sha256": "db89fc5883e6c7436b8a8e5364cef9f821ef510fda09a919ac746ecf8e0d6dc2",
+      "frames": 99,
+      "duration_ms": 1980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 58,
+      "source_name": "NekoGirl_呆(贴纸) 1_2026-10-27-20-19-55.gif",
+      "category": "confused",
+      "filename": "0058_呆(贴纸) 1.gif",
+      "path": "memes/confused/0058_呆(贴纸) 1.gif",
+      "sha256": "379a33b65a85bfbd244817339c25e37e32a698880d4671dd515510304481f551",
+      "frames": 49,
+      "duration_ms": 980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 59,
+      "source_name": "NekoGirl_呆(贴纸) 2_2026-10-27-20-20-04.gif",
+      "category": "confused",
+      "filename": "0059_呆(贴纸) 2.gif",
+      "path": "memes/confused/0059_呆(贴纸) 2.gif",
+      "sha256": "d5e7ac4bc6e9a54ac4484fa56b71fa581a8402c7e3bb3ee1f08fad703cc16150",
+      "frames": 82,
+      "duration_ms": 1640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 60,
+      "source_name": "NekoGirl_呆(贴纸) 3_2026-10-27-20-20-14.gif",
+      "category": "confused",
+      "filename": "0060_呆(贴纸) 3.gif",
+      "path": "memes/confused/0060_呆(贴纸) 3.gif",
+      "sha256": "1596d4dc2a49217c2aaca5804892483be5d9af9626bcdddf0a4967eb03bf9340",
+      "frames": 99,
+      "duration_ms": 1980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 61,
+      "source_name": "NekoGirl_哭 1_2026-10-27-20-06-58.gif",
+      "category": "sad",
+      "filename": "0061_哭 1.gif",
+      "path": "memes/sad/0061_哭 1.gif",
+      "sha256": "daa90f3035ad4989259204d30d8fed6027b2cee8be1c251e0f947c6252651c5f",
+      "frames": 99,
+      "duration_ms": 1980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 62,
+      "source_name": "NekoGirl_哭 2_2026-10-27-20-07-08.gif",
+      "category": "sad",
+      "filename": "0062_哭 2.gif",
+      "path": "memes/sad/0062_哭 2.gif",
+      "sha256": "72a151a84f659cc5ec4cea222ea3d7b5edca3491fb6b381486d628a589e150b1",
+      "frames": 97,
+      "duration_ms": 1940,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 63,
+      "source_name": "NekoGirl_哭 3_2026-10-27-20-07-12.gif",
+      "category": "sad",
+      "filename": "0063_哭 3.gif",
+      "path": "memes/sad/0063_哭 3.gif",
+      "sha256": "bbc81f1f7030cc01486c3ee022bea17a18b83a28a7c32b424cbe80ccb5ddcc04",
+      "frames": 26,
+      "duration_ms": 520,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 64,
+      "source_name": "NekoGirl_唱歌_2026-10-27-20-35-24.gif",
+      "category": "entertainment",
+      "filename": "0064_唱歌.gif",
+      "path": "memes/entertainment/0064_唱歌.gif",
+      "sha256": "f71cbdbc86c916498aec151a6ea105490e48de20a65cca47b2909f752ed98dce",
+      "frames": 59,
+      "duration_ms": 1180,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 65,
+      "source_name": "NekoGirl_喝(饮料杯)_2026-10-27-20-11-25.gif",
+      "category": "food",
+      "filename": "0065_喝(饮料杯).gif",
+      "path": "memes/food/0065_喝(饮料杯).gif",
+      "sha256": "5c3034ec3a488d5f2ce5154e7f1e66536dcdb13f46ca23dac372c5f8fd5d4473",
+      "frames": 32,
+      "duration_ms": 640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 66,
+      "source_name": "NekoGirl_喷剂_2026-10-27-20-37-43.gif",
+      "category": "teasing",
+      "filename": "0066_喷剂.gif",
+      "path": "memes/teasing/0066_喷剂.gif",
+      "sha256": "672889c3d8515dbfd616c06c68c19fb5f878160e7e96d5dc9945ca769c318757",
+      "frames": 69,
+      "duration_ms": 1380,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 67,
+      "source_name": "NekoGirl_坐牢 1_2026-10-27-20-20-51.gif",
+      "category": "sad",
+      "filename": "0067_坐牢 1.gif",
+      "path": "memes/sad/0067_坐牢 1.gif",
+      "sha256": "01cd8d33a52b64fd7d9fe4b255a23f8f4f92c158659cdf76242afa8a490d6d61",
+      "frames": 62,
+      "duration_ms": 1240,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 68,
+      "source_name": "NekoGirl_坐牢 2_2026-10-27-20-20-53.gif",
+      "category": "sad",
+      "filename": "0068_坐牢 2.gif",
+      "path": "memes/sad/0068_坐牢 2.gif",
+      "sha256": "858b9e62a09cf07caf677805efc105ccff06e3d74d9b3f306df064c9a2753a61",
+      "frames": 9,
+      "duration_ms": 180,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 69,
+      "source_name": "NekoGirl_垃圾桶_2026-10-27-20-43-40.gif",
+      "category": "teasing",
+      "filename": "0069_垃圾桶.gif",
+      "path": "memes/teasing/0069_垃圾桶.gif",
+      "sha256": "1e20f15c41198f05aa9af73578d1f540ce74665009c8ce26116b64764f63eaa1",
+      "frames": 9,
+      "duration_ms": 180,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 70,
+      "source_name": "NekoGirl_墨镜反光_2026-10-27-20-38-27.gif",
+      "category": "teasing",
+      "filename": "0070_墨镜反光.gif",
+      "path": "memes/teasing/0070_墨镜反光.gif",
+      "sha256": "06f8bd50a3b5c97c5354fb2d13e73bb7e5aa1f91b6a647c90fc94531214abbd1",
+      "frames": 82,
+      "duration_ms": 1640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 71,
+      "source_name": "NekoGirl_墨镜循环_2026-10-27-20-38-35.gif",
+      "category": "teasing",
+      "filename": "0071_墨镜循环.gif",
+      "path": "memes/teasing/0071_墨镜循环.gif",
+      "sha256": "4c20ca51c9228729a714630170e7ff994f561bdb1019e5cb9b915314804a45fd",
+      "frames": 66,
+      "duration_ms": 1320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 72,
+      "source_name": "NekoGirl_复活节_2026-10-27-20-22-18.gif",
+      "category": "entertainment",
+      "filename": "0072_复活节.gif",
+      "path": "memes/entertainment/0072_复活节.gif",
+      "sha256": "525007776eb91ddc829aab4ee893117dcc7e3d92a2ada168f395f16a14745f16",
+      "frames": 76,
+      "duration_ms": 1520,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 73,
+      "source_name": "NekoGirl_头晕_2026-10-27-20-22-27.gif",
+      "category": "confused",
+      "filename": "0073_头晕.gif",
+      "path": "memes/confused/0073_头晕.gif",
+      "sha256": "d40ac62be0147f77b5068da2a01327aea9eac0c11ebb0a3d8c90d5b25195ba54",
+      "frames": 66,
+      "duration_ms": 1320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 74,
+      "source_name": "NekoGirl_奶酪糊脸_2026-10-27-20-04-04.gif",
+      "category": "food",
+      "filename": "0074_奶酪糊脸.gif",
+      "path": "memes/food/0074_奶酪糊脸.gif",
+      "sha256": "4bf085ef15a624eff048def1b7062d21f86ee4a2d185c7b5db401d04a9ab0e4c",
+      "frames": 66,
+      "duration_ms": 1320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 75,
+      "source_name": "NekoGirl_害怕 1_2026-10-27-20-34-24.gif",
+      "category": "surprised",
+      "filename": "0075_害怕 1.gif",
+      "path": "memes/surprised/0075_害怕 1.gif",
+      "sha256": "a9de097a88a2e040165e61d0f6853bf0e307139d21dfad906fa9f28a2ce131b3",
+      "frames": 9,
+      "duration_ms": 180,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 76,
+      "source_name": "NekoGirl_害怕 2_2026-10-27-20-34-26.gif",
+      "category": "surprised",
+      "filename": "0076_害怕 2.gif",
+      "path": "memes/surprised/0076_害怕 2.gif",
+      "sha256": "fa0d44fc249ce0aaf0a4c6838dc657b2c5811196ae2c6cee17abbf533018ee57",
+      "frames": 9,
+      "duration_ms": 180,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 77,
+      "source_name": "NekoGirl_害羞 1_2026-10-27-20-34-51.gif",
+      "category": "shy",
+      "filename": "0077_害羞 1.gif",
+      "path": "memes/shy/0077_害羞 1.gif",
+      "sha256": "e7fb5b515b9e47f1643cb4c0b8ac80d898e41a329a7a042494d596ccf886fe87",
+      "frames": 49,
+      "duration_ms": 980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 78,
+      "source_name": "NekoGirl_害羞 2_2026-10-27-21-08-40.gif",
+      "category": "shy",
+      "filename": "0078_害羞 2.gif",
+      "path": "memes/shy/0078_害羞 2.gif",
+      "sha256": "8c25bb61ae1c27bbd46c81e00c1d4db9c8a503482327d46ad4a7150b4ec34820",
+      "frames": 49,
+      "duration_ms": 980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 79,
+      "source_name": "NekoGirl_害羞 3_2026-10-27-21-08-44.gif",
+      "category": "shy",
+      "filename": "0079_害羞 3.gif",
+      "path": "memes/shy/0079_害羞 3.gif",
+      "sha256": "ea1cf3996817e624d5ec82868dc4478e95a6b0c1ee2292f0413c6936ea97de57",
+      "frames": 32,
+      "duration_ms": 640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 80,
+      "source_name": "NekoGirl_小丑 1_2026-10-27-20-04-17.gif",
+      "category": "teasing",
+      "filename": "0080_小丑 1.gif",
+      "path": "memes/teasing/0080_小丑 1.gif",
+      "sha256": "75cd58f2e14d524f8da833e45979e180014d2831f80fa4f5079a5c225fe6801a",
+      "frames": 116,
+      "duration_ms": 2320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 81,
+      "source_name": "NekoGirl_小丑 2_2026-10-27-20-04-42.gif",
+      "category": "teasing",
+      "filename": "0081_小丑 2.gif",
+      "path": "memes/teasing/0081_小丑 2.gif",
+      "sha256": "bcfafc8b2592446974bae1f145137da0d4133ad151e31f87a846448fddb99068",
+      "frames": 99,
+      "duration_ms": 1980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 82,
+      "source_name": "NekoGirl_工作(小睡)_2026-10-27-20-45-28.gif",
+      "category": "sleep",
+      "filename": "0082_工作(小睡).gif",
+      "path": "memes/sleep/0082_工作(小睡).gif",
+      "sha256": "7d3960b45f0e636bc1db0e6cdc76686f107cb242dab46f67857c20e9b1cb050c",
+      "frames": 99,
+      "duration_ms": 1980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 83,
+      "source_name": "NekoGirl_工作(普通)_2026-10-27-20-48-07.gif",
+      "category": "work",
+      "filename": "0083_工作(普通).gif",
+      "path": "memes/work/0083_工作(普通).gif",
+      "sha256": "8be0861b32462aa5e29821c016e33ee8ecbc59e87144257947a58ebd335a8ca1",
+      "frames": 32,
+      "duration_ms": 640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 84,
+      "source_name": "NekoGirl_工作(生气)_2026-10-27-20-45-18.gif",
+      "category": "work",
+      "filename": "0084_工作(生气).gif",
+      "path": "memes/work/0084_工作(生气).gif",
+      "sha256": "1663936c201864261803b2b13a5334257e88defaa376fd7fb7f120ed6c4971c6",
+      "frames": 99,
+      "duration_ms": 1980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 85,
+      "source_name": "NekoGirl_工作(疲倦)_2026-10-27-20-48-17.gif",
+      "category": "work",
+      "filename": "0085_工作(疲倦).gif",
+      "path": "memes/work/0085_工作(疲倦).gif",
+      "sha256": "dcc99d4e2afadd8f0821f5ca2c60fe5a840f2f13141483669a0151269f00c31d",
+      "frames": 99,
+      "duration_ms": 1980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 86,
+      "source_name": "NekoGirl_带薪拉屎(困难模式)_2026-10-27-21-10-07.gif",
+      "category": "work",
+      "filename": "0086_带薪拉屎(困难模式).gif",
+      "path": "memes/work/0086_带薪拉屎(困难模式).gif",
+      "sha256": "3573170b47f54ac66df3d70c7dd55fc730afa0caefe203cb38379b66d61d8f13",
+      "frames": 107,
+      "duration_ms": 2140,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 87,
+      "source_name": "NekoGirl_带薪拉屎(简单模式)_2026-10-27-21-09-55.gif",
+      "category": "work",
+      "filename": "0087_带薪拉屎(简单模式).gif",
+      "path": "memes/work/0087_带薪拉屎(简单模式).gif",
+      "sha256": "accdc2bca8c7f6452866a8a55025d11ae14938193f07f120c6b4a55fe44810c5",
+      "frames": 66,
+      "duration_ms": 1320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 88,
+      "source_name": "NekoGirl_干杯_2026-10-27-20-03-57.gif",
+      "category": "happy",
+      "filename": "0088_干杯.gif",
+      "path": "memes/happy/0088_干杯.gif",
+      "sha256": "b2ba930cdb24a635bc9324784d66c0a4345e8987613dcd199470fae9131a59a0",
+      "frames": 66,
+      "duration_ms": 1320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 89,
+      "source_name": "NekoGirl_庆祝_2026-10-27-20-03-06.gif",
+      "category": "happy",
+      "filename": "0089_庆祝.gif",
+      "path": "memes/happy/0089_庆祝.gif",
+      "sha256": "344ed6445f77958efaf77ca196a15430bbcacfb08754a3bc926862cd82e3cd4d",
+      "frames": 66,
+      "duration_ms": 1320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 90,
+      "source_name": "NekoGirl_得分(0分)_2026-10-27-20-34-36.gif",
+      "category": "teasing",
+      "filename": "0090_得分(0分).gif",
+      "path": "memes/teasing/0090_得分(0分).gif",
+      "sha256": "a4ff49ee9f36ddd01507ca4658538fa32c52e71be20ab2bf1f2bb895a7f34bc2",
+      "frames": 99,
+      "duration_ms": 1980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 91,
+      "source_name": "NekoGirl_得分(10分)_2026-10-27-20-34-46.gif",
+      "category": "happy",
+      "filename": "0091_得分(10分).gif",
+      "path": "memes/happy/0091_得分(10分).gif",
+      "sha256": "a9c16d17c651bb97971961754b756dc0188b272983a2ecd3ca0ffa7fd783330c",
+      "frames": 99,
+      "duration_ms": 1980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 92,
+      "source_name": "NekoGirl_思考(自信地)_2026-10-27-20-41-19.gif",
+      "category": "confused",
+      "filename": "0092_思考(自信地).gif",
+      "path": "memes/confused/0092_思考(自信地).gif",
+      "sha256": "a3003830555eb1907142e0ca6d89606c29bba0412fa18028f86d43e6f5ae6445",
+      "frames": 49,
+      "duration_ms": 980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 93,
+      "source_name": "NekoGirl_思考(认真地)_2026-10-27-21-11-42.gif",
+      "category": "confused",
+      "filename": "0093_思考(认真地).gif",
+      "path": "memes/confused/0093_思考(认真地).gif",
+      "sha256": "9ebfc1b86b94e6f8040dbab2ee9e053b05a194f1a90cf528145ffe0e85dc6823",
+      "frames": 49,
+      "duration_ms": 980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 94,
+      "source_name": "NekoGirl_情书_2026-10-27-21-09-01.gif",
+      "category": "affection",
+      "filename": "0094_情书.gif",
+      "path": "memes/affection/0094_情书.gif",
+      "sha256": "c800227dab9f06675ee5228208c11b579ecaf966a21723516e9689731aed316c",
+      "frames": 66,
+      "duration_ms": 1320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 95,
+      "source_name": "NekoGirl_惊吓_2026-10-27-21-08-52.gif",
+      "category": "surprised",
+      "filename": "0095_惊吓.gif",
+      "path": "memes/surprised/0095_惊吓.gif",
+      "sha256": "4be02bf8d03582b813d56e7e549f2900798c973901e730b00846d8c70c41644a",
+      "frames": 57,
+      "duration_ms": 1140,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 96,
+      "source_name": "NekoGirl_打字(恼怒)_2026-10-27-20-44-26.gif",
+      "category": "work",
+      "filename": "0096_打字(恼怒).gif",
+      "path": "memes/work/0096_打字(恼怒).gif",
+      "sha256": "b4a65ccdfecb24372b4ed7454c203c29e3b47855f9b3535d7e1ac460236a0287",
+      "frames": 16,
+      "duration_ms": 320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 97,
+      "source_name": "NekoGirl_打字(普通)_2026-10-27-20-44-31.gif",
+      "category": "work",
+      "filename": "0097_打字(普通).gif",
+      "path": "memes/work/0097_打字(普通).gif",
+      "sha256": "e9ff26c5ffa161e20bfef241e6937c1e802e142a0d89e69de2d3b428d7cd1b68",
+      "frames": 49,
+      "duration_ms": 980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 98,
+      "source_name": "NekoGirl_打字(生气)_2026-10-27-20-44-24.gif",
+      "category": "work",
+      "filename": "0098_打字(生气).gif",
+      "path": "memes/work/0098_打字(生气).gif",
+      "sha256": "0283e1538603eee8431c58b0543478e0a532efa0665bf1607023dfb5c71585c5",
+      "frames": 16,
+      "duration_ms": 320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 99,
+      "source_name": "NekoGirl_打招呼 1_2026-10-27-20-22-39.gif",
+      "category": "greeting",
+      "filename": "0099_打招呼 1.gif",
+      "path": "memes/greeting/0099_打招呼 1.gif",
+      "sha256": "a40867e1c6f7d78e54617ba3632c10e2b7995d8a1858f2350fa7ae91452294a2",
+      "frames": 116,
+      "duration_ms": 2320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 100,
+      "source_name": "NekoGirl_打招呼 2_2026-10-27-20-28-37.gif",
+      "category": "greeting",
+      "filename": "0100_打招呼 2.gif",
+      "path": "memes/greeting/0100_打招呼 2.gif",
+      "sha256": "3326ddae330f992f391f8a974bbc9620b17065ea4e926c0e5b013fa031694041",
+      "frames": 99,
+      "duration_ms": 1980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 101,
+      "source_name": "NekoGirl_打游戏_2026-10-27-20-22-45.gif",
+      "category": "entertainment",
+      "filename": "0101_打游戏.gif",
+      "path": "memes/entertainment/0101_打游戏.gif",
+      "sha256": "0bf2c9afb15cb56dea09ed595a699c037f8b8bb7c779fbaf3666739aabb95a41",
+      "frames": 39,
+      "duration_ms": 780,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 102,
+      "source_name": "NekoGirl_扩音器_2026-10-27-21-09-46.gif",
+      "category": "greeting",
+      "filename": "0102_扩音器.gif",
+      "path": "memes/greeting/0102_扩音器.gif",
+      "sha256": "c9d274eaf06db612999939989044a32cc72b3136dd7a8707a1c46c8f43d449e6",
+      "frames": 26,
+      "duration_ms": 520,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 103,
+      "source_name": "NekoGirl_抓拍(手机)_2026-10-27-20-02-50.gif",
+      "category": "entertainment",
+      "filename": "0103_抓拍(手机).gif",
+      "path": "memes/entertainment/0103_抓拍(手机).gif",
+      "sha256": "3c75b8e2eeffd3407324abe36d626fd3ba452c6b067fff291d9eb811cb818823",
+      "frames": 82,
+      "duration_ms": 1640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 104,
+      "source_name": "NekoGirl_抓拍(摄像机)_2026-10-27-20-02-59.gif",
+      "category": "entertainment",
+      "filename": "0104_抓拍(摄像机).gif",
+      "path": "memes/entertainment/0104_抓拍(摄像机).gif",
+      "sha256": "b6c08b035a4989e1bc838cf6856778f307d9e088d15830280b252a311c48d935",
+      "frames": 82,
+      "duration_ms": 1640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 105,
+      "source_name": "NekoGirl_折扇_2026-10-27-20-23-23.gif",
+      "category": "entertainment",
+      "filename": "0105_折扇.gif",
+      "path": "memes/entertainment/0105_折扇.gif",
+      "sha256": "4e1ae7849a53898111b0a571cff213f42c37b537f456d45dd532e740f7dd9cff",
+      "frames": 66,
+      "duration_ms": 1320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 106,
+      "source_name": "NekoGirl_拍蝇_2026-10-27-21-10-11.gif",
+      "category": "surprised",
+      "filename": "0106_拍蝇.gif",
+      "path": "memes/surprised/0106_拍蝇.gif",
+      "sha256": "4fc298b5f10591d5f341ef2bd458fe726d5e899134f87996b24f80605fd98259",
+      "frames": 29,
+      "duration_ms": 580,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 107,
+      "source_name": "NekoGirl_拖鞋 1_2026-10-27-20-36-56.gif",
+      "category": "angry",
+      "filename": "0107_拖鞋 1.gif",
+      "path": "memes/angry/0107_拖鞋 1.gif",
+      "sha256": "1e6763225d044e442df223c923f2ab4eb593f8c53cfcabfe5d0766cdfdb07cd5",
+      "frames": 19,
+      "duration_ms": 380,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 108,
+      "source_name": "NekoGirl_拖鞋 2_2026-10-27-20-57-49.gif",
+      "category": "angry",
+      "filename": "0108_拖鞋 2.gif",
+      "path": "memes/angry/0108_拖鞋 2.gif",
+      "sha256": "c7350db4897837d3ffc80bdcc1fa85c6f13e21ee38a5bca380f2f65733b3c93c",
+      "frames": 116,
+      "duration_ms": 2320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 109,
+      "source_name": "NekoGirl_拿走我的钱_2026-10-27-20-40-21.gif",
+      "category": "money",
+      "filename": "0109_拿走我的钱.gif",
+      "path": "memes/money/0109_拿走我的钱.gif",
+      "sha256": "978112fb7331fdd663a6a2ed55bd86e2c60ec690b4152e6fa5285a6833eada2d",
+      "frames": 57,
+      "duration_ms": 1140,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 110,
+      "source_name": "NekoGirl_指_2026-10-27-20-32-15.gif",
+      "category": "greeting",
+      "filename": "0110_指.gif",
+      "path": "memes/greeting/0110_指.gif",
+      "sha256": "806d403a0de77a8aa9718464e58eb56b57f55faa4364fd9fbaa0e6245ea55f53",
+      "frames": 39,
+      "duration_ms": 780,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 111,
+      "source_name": "NekoGirl_按_2026-10-27-20-32-44.gif",
+      "category": "reply",
+      "filename": "0111_按.gif",
+      "path": "memes/reply/0111_按.gif",
+      "sha256": "fce1770709c285e09989b28ec77a659edd0543d6d655ac1bc3ad64b418202d73",
+      "frames": 66,
+      "duration_ms": 1320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 112,
+      "source_name": "NekoGirl_按钮_2026-10-27-20-02-09.gif",
+      "category": "reply",
+      "filename": "0112_按钮.gif",
+      "path": "memes/reply/0112_按钮.gif",
+      "sha256": "1299d69123461e625f123d77c904819ee859e716cb5c47a4f28357227fc46327",
+      "frames": 16,
+      "duration_ms": 320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 113,
+      "source_name": "NekoGirl_按钮 (拍击)_2026-10-27-20-02-12.gif",
+      "category": "reply",
+      "filename": "0113_按钮 (拍击).gif",
+      "path": "memes/reply/0113_按钮 (拍击).gif",
+      "sha256": "c5c669f08543bb96308b5a61a8b2feae1e994c54277ac02c66ebe0ff1c681eb3",
+      "frames": 16,
+      "duration_ms": 320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 114,
+      "source_name": "NekoGirl_挤脸颊_2026-10-27-20-03-12.gif",
+      "category": "affection",
+      "filename": "0114_挤脸颊.gif",
+      "path": "memes/affection/0114_挤脸颊.gif",
+      "sha256": "712ad617edf43ca87d7b725989ce0e12997290ed3e60166d7610c0c85881a32a",
+      "frames": 49,
+      "duration_ms": 980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 115,
+      "source_name": "NekoGirl_揉头 1_2026-10-27-20-34-22.gif",
+      "category": "affection",
+      "filename": "0115_揉头 1.gif",
+      "path": "memes/affection/0115_揉头 1.gif",
+      "sha256": "46ebe4fe7111955cd91abe53c261bbefdce3b5a89e018ed1c59d792fcbaf1f69",
+      "frames": 49,
+      "duration_ms": 980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 116,
+      "source_name": "NekoGirl_摆动 1_2026-10-27-20-44-54.gif",
+      "category": "entertainment",
+      "filename": "0116_摆动 1.gif",
+      "path": "memes/entertainment/0116_摆动 1.gif",
+      "sha256": "93cd40af5ac19d9b5e140b7952198e4479ce49b798f4e7b8fdc679bf8fcc9b6a",
+      "frames": 66,
+      "duration_ms": 1320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 117,
+      "source_name": "NekoGirl_摇可乐_2026-10-27-20-04-44.gif",
+      "category": "teasing",
+      "filename": "0117_摇可乐.gif",
+      "path": "memes/teasing/0117_摇可乐.gif",
+      "sha256": "5276292ed41880212deb7a016469d4071d4ce97d94f4e9d821532d787208e31a",
+      "frames": 12,
+      "duration_ms": 240,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 118,
+      "source_name": "NekoGirl_摇头_2026-10-27-20-23-28.gif",
+      "category": "reply",
+      "filename": "0118_摇头.gif",
+      "path": "memes/reply/0118_摇头.gif",
+      "sha256": "873fb0b02bc552f29235ac3cf63e749f8e95db723af84ac8312e97abeed9318c",
+      "frames": 32,
+      "duration_ms": 640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 119,
+      "source_name": "NekoGirl_摇摆 2_2026-10-27-20-45-00.gif",
+      "category": "entertainment",
+      "filename": "0119_摇摆 2.gif",
+      "path": "memes/entertainment/0119_摇摆 2.gif",
+      "sha256": "3c97bb639baed55734e4a738fa72903555bbda7ee933b71354d1c612d1899630",
+      "frames": 49,
+      "duration_ms": 980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 120,
+      "source_name": "NekoGirl_摇铃_2026-10-27-19-58-55.gif",
+      "category": "greeting",
+      "filename": "0120_摇铃.gif",
+      "path": "memes/greeting/0120_摇铃.gif",
+      "sha256": "e4821b088dc9101da71777cf5931a448185b0d9899eaf0267c6be4ca63b6fb06",
+      "frames": 26,
+      "duration_ms": 520,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 121,
+      "source_name": "NekoGirl_摘掉墨镜_2026-10-27-20-39-09.gif",
+      "category": "teasing",
+      "filename": "0121_摘掉墨镜.gif",
+      "path": "memes/teasing/0121_摘掉墨镜.gif",
+      "sha256": "85de3964d8d92f430dd9922a584fccc9b1254311a784aae0376be7ae3d93d73c",
+      "frames": 96,
+      "duration_ms": 1920,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 122,
+      "source_name": "NekoGirl_摸头_2026-10-27-21-08-07.gif",
+      "category": "affection",
+      "filename": "0122_摸头.gif",
+      "path": "memes/affection/0122_摸头.gif",
+      "sha256": "e4b6cd5654f0af05c1753ff8d53f82c428afd25ecd50a9706ffeb3b6d4f16dec",
+      "frames": 32,
+      "duration_ms": 640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 123,
+      "source_name": "NekoGirl_摸头 2_2026-10-27-21-08-10.gif",
+      "category": "affection",
+      "filename": "0123_摸头 2.gif",
+      "path": "memes/affection/0123_摸头 2.gif",
+      "sha256": "7a14542fdb5213d5730e6c526d8c3df8c0831ac2d52464e734940a9b23058d79",
+      "frames": 19,
+      "duration_ms": 380,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 124,
+      "source_name": "NekoGirl_撬棍 1_2026-10-27-20-05-23.gif",
+      "category": "angry",
+      "filename": "0124_撬棍 1.gif",
+      "path": "memes/angry/0124_撬棍 1.gif",
+      "sha256": "a7dc88110bb5dce0424214bb02ab68c037e3920ba0ed7bdaea1ac5614ef94858",
+      "frames": 57,
+      "duration_ms": 1140,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 125,
+      "source_name": "NekoGirl_撬棍 2_2026-10-27-20-05-31.gif",
+      "category": "angry",
+      "filename": "0125_撬棍 2.gif",
+      "path": "memes/angry/0125_撬棍 2.gif",
+      "sha256": "699a3f195e1cf0e4a9b9973c88af5589ed23543f9f71c04197c2387d2e436b52",
+      "frames": 74,
+      "duration_ms": 1480,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 126,
+      "source_name": "NekoGirl_撬棍 3_2026-10-27-20-23-38.gif",
+      "category": "angry",
+      "filename": "0126_撬棍 3.gif",
+      "path": "memes/angry/0126_撬棍 3.gif",
+      "sha256": "27e3d6a4408fb57810a833b5d77bcdf1406c020a0c0e24e2aeba62b8be1a3f38",
+      "frames": 66,
+      "duration_ms": 1320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 127,
+      "source_name": "NekoGirl_敲头_2026-10-27-20-00-59.gif",
+      "category": "angry",
+      "filename": "0127_敲头.gif",
+      "path": "memes/angry/0127_敲头.gif",
+      "sha256": "e6abd2e9af4e0369d84b60ccedff5c437071b715fc313260043f139f9f23f6a5",
+      "frames": 29,
+      "duration_ms": 580,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 128,
+      "source_name": "NekoGirl_期待 1_2026-10-27-20-58-02.gif",
+      "category": "happy",
+      "filename": "0128_期待 1.gif",
+      "path": "memes/happy/0128_期待 1.gif",
+      "sha256": "c6edbf4ca0060768a71ff5068269aedf082dcba14aa0f56d9ce13ac1556883ec",
+      "frames": 132,
+      "duration_ms": 2640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 129,
+      "source_name": "NekoGirl_期待 2_2026-10-27-20-37-26.gif",
+      "category": "happy",
+      "filename": "0129_期待 2.gif",
+      "path": "memes/happy/0129_期待 2.gif",
+      "sha256": "eef9f74baddd95ece79c70ccb1a5601cbfdab3ec95947af20fc0de75a0ef41a1",
+      "frames": 66,
+      "duration_ms": 1320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 130,
+      "source_name": "NekoGirl_期待 3_2026-10-27-20-37-36.gif",
+      "category": "happy",
+      "filename": "0130_期待 3.gif",
+      "path": "memes/happy/0130_期待 3.gif",
+      "sha256": "6608e36be2ed20a2f1cf95491a43f66e3e972fd47b8d1ee66d24779d1ac13f4f",
+      "frames": 99,
+      "duration_ms": 1980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 131,
+      "source_name": "NekoGirl_枕头(舔)_2026-10-27-21-14-03.gif",
+      "category": "affection",
+      "filename": "0131_枕头(舔).gif",
+      "path": "memes/affection/0131_枕头(舔).gif",
+      "sha256": "21392cde9363bd5212ece3eced01cf33f44a46d7c1382fdd727136704f255173",
+      "frames": 32,
+      "duration_ms": 640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 132,
+      "source_name": "NekoGirl_枕头(蹭)_2026-10-27-21-14-07.gif",
+      "category": "affection",
+      "filename": "0132_枕头(蹭).gif",
+      "path": "memes/affection/0132_枕头(蹭).gif",
+      "sha256": "ffbcccf1f8a882ef6529874bdb127e0e835df6cbba1b38c19c0e47a8850173bb",
+      "frames": 32,
+      "duration_ms": 640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 133,
+      "source_name": "NekoGirl_枕头(蹭2)_2026-10-27-21-14-11.gif",
+      "category": "affection",
+      "filename": "0133_枕头(蹭2).gif",
+      "path": "memes/affection/0133_枕头(蹭2).gif",
+      "sha256": "6c57bb36e07bba71b8baa3fbad54f43edbed32b2b5fd5cc569ecb1b3a5226d27",
+      "frames": 32,
+      "duration_ms": 640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 134,
+      "source_name": "NekoGirl_枪_2026-10-27-20-23-43.gif",
+      "category": "angry",
+      "filename": "0134_枪.gif",
+      "path": "memes/angry/0134_枪.gif",
+      "sha256": "ec191bff1f0e17bcfb9367d682065f0702051f297f17868c109789e716a8841f",
+      "frames": 32,
+      "duration_ms": 640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 135,
+      "source_name": "NekoGirl_死亡_2026-10-27-20-24-08.gif",
+      "category": "sad",
+      "filename": "0135_死亡.gif",
+      "path": "memes/sad/0135_死亡.gif",
+      "sha256": "29aaa5a01c7ee370503e572edc6cf04b8338035e7dbe783725d29cedd14e4ae6",
+      "frames": 69,
+      "duration_ms": 1380,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 136,
+      "source_name": "NekoGirl_汗_2026-10-27-20-40-08.gif",
+      "category": "surprised",
+      "filename": "0136_汗.gif",
+      "path": "memes/surprised/0136_汗.gif",
+      "sha256": "5e8b04c1e45b307272852e77df2cd1372398ac715a86541871b84feda564b5d4",
+      "frames": 66,
+      "duration_ms": 1320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 137,
+      "source_name": "NekoGirl_点头_2026-10-27-20-24-14.gif",
+      "category": "reply",
+      "filename": "0137_点头.gif",
+      "path": "memes/reply/0137_点头.gif",
+      "sha256": "0fb9c041817608517fe7ed866236bcc054d30019da6862f268b1221e826702e9",
+      "frames": 39,
+      "duration_ms": 780,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 138,
+      "source_name": "NekoGirl_点赞_2026-10-27-20-43-39.gif",
+      "category": "happy",
+      "filename": "0138_点赞.gif",
+      "path": "memes/happy/0138_点赞.gif",
+      "sha256": "1024c9639c732f7cbc9b598d463d79b7743b6dd0f3dea8bcc7af0e11b32b2297",
+      "frames": 49,
+      "duration_ms": 980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 139,
+      "source_name": "NekoGirl_烧 1_2026-10-27-20-24-24.gif",
+      "category": "angry",
+      "filename": "0139_烧 1.gif",
+      "path": "memes/angry/0139_烧 1.gif",
+      "sha256": "6be5851200f196e09824a0842d18bc2e2e6d5d7a030f3bdaed1f46882e6c71ea",
+      "frames": 79,
+      "duration_ms": 1580,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 140,
+      "source_name": "NekoGirl_烧 2_2026-10-27-20-24-32.gif",
+      "category": "angry",
+      "filename": "0140_烧 2.gif",
+      "path": "memes/angry/0140_烧 2.gif",
+      "sha256": "93af52793f91d57b5d3c0fcd65d51078d203e53fcbbeb7b663cce6880c661297",
+      "frames": 79,
+      "duration_ms": 1580,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 141,
+      "source_name": "NekoGirl_爱心 1_2026-10-27-21-06-42.gif",
+      "category": "affection",
+      "filename": "0141_爱心 1.gif",
+      "path": "memes/affection/0141_爱心 1.gif",
+      "sha256": "19158578ae68a068d68fe564c3032f190be93bcab143e7c5e694ba09e5ea899f",
+      "frames": 107,
+      "duration_ms": 2140,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 142,
+      "source_name": "NekoGirl_爱心 2_2026-10-27-21-06-53.gif",
+      "category": "affection",
+      "filename": "0142_爱心 2.gif",
+      "path": "memes/affection/0142_爱心 2.gif",
+      "sha256": "c3b40fa12e3504a8e894582c0097d8d9fe33669c58b0f6ead4764ae85f1cd703",
+      "frames": 106,
+      "duration_ms": 2120,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 143,
+      "source_name": "NekoGirl_爱心 3_2026-10-27-21-15-35.gif",
+      "category": "affection",
+      "filename": "0143_爱心 3.gif",
+      "path": "memes/affection/0143_爱心 3.gif",
+      "sha256": "3768a8e9100a45b46347e0a237fd0f337fe5b1dce4c9b02ad43f76051f3cc3d9",
+      "frames": 96,
+      "duration_ms": 1920,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 144,
+      "source_name": "NekoGirl_玫瑰_2026-10-27-20-34-00.gif",
+      "category": "affection",
+      "filename": "0144_玫瑰.gif",
+      "path": "memes/affection/0144_玫瑰.gif",
+      "sha256": "2be54c7219f0c13f34f8f2dd565d41b7a172d6000dec05520fd6ab0f6525fdd1",
+      "frames": 66,
+      "duration_ms": 1320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 145,
+      "source_name": "NekoGirl_生气_2026-10-27-19-57-54.gif",
+      "category": "angry",
+      "filename": "0145_生气.gif",
+      "path": "memes/angry/0145_生气.gif",
+      "sha256": "1ecfdec2a396349977928f69c1b65023656c411dd5524a7a20d0f373b6f5493d",
+      "frames": 99,
+      "duration_ms": 1980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 146,
+      "source_name": "NekoGirl_电风扇 1_2026-10-27-20-24-56.gif",
+      "category": "entertainment",
+      "filename": "0146_电风扇 1.gif",
+      "path": "memes/entertainment/0146_电风扇 1.gif",
+      "sha256": "dee95b4c3b44c35c5d1892394747fb2da2ca9f5514691087be043b1f85e2f5f9",
+      "frames": 49,
+      "duration_ms": 980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 147,
+      "source_name": "NekoGirl_电风扇 2_2026-10-27-20-25-01.gif",
+      "category": "entertainment",
+      "filename": "0147_电风扇 2.gif",
+      "path": "memes/entertainment/0147_电风扇 2.gif",
+      "sha256": "c486716c0fd982b8ace4b7f7f35dd52ab6643cfa01469be8217fe87f56157b7e",
+      "frames": 49,
+      "duration_ms": 980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 148,
+      "source_name": "NekoGirl_画板_2026-10-27-20-40-13.gif",
+      "category": "entertainment",
+      "filename": "0148_画板.gif",
+      "path": "memes/entertainment/0148_画板.gif",
+      "sha256": "5f152441f528e3bbecaf2aed4c69d8309d5a0e3dfea34eac9bbc501d76533210",
+      "frames": 39,
+      "duration_ms": 780,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 149,
+      "source_name": "NekoGirl_眨眼_2026-10-27-20-45-08.gif",
+      "category": "shy",
+      "filename": "0149_眨眼.gif",
+      "path": "memes/shy/0149_眨眼.gif",
+      "sha256": "b799e1412fd6d157c0e7edfe81a1cc81ae33fe2580ad556213626df12bc91e30",
+      "frames": 74,
+      "duration_ms": 1480,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 150,
+      "source_name": "NekoGirl_眨眼 1_2026-10-27-20-00-54.gif",
+      "category": "shy",
+      "filename": "0150_眨眼 1.gif",
+      "path": "memes/shy/0150_眨眼 1.gif",
+      "sha256": "640448d05c0595b81af0832798a9b69ee865afba633bb9898473821da0f59c2d",
+      "frames": 99,
+      "duration_ms": 1980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 151,
+      "source_name": "NekoGirl_睡觉 (UU)_2026-10-27-20-36-36.gif",
+      "category": "sleep",
+      "filename": "0151_睡觉 (UU).gif",
+      "path": "memes/sleep/0151_睡觉 (UU).gif",
+      "sha256": "745c26e93651f4af4962b4913a5d6176918c180790e883aef765e919b9980bbe",
+      "frames": 132,
+      "duration_ms": 2640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 152,
+      "source_name": "NekoGirl_睡觉(准备阶段1)_2026-10-27-20-36-11.gif",
+      "category": "sleep",
+      "filename": "0152_睡觉(准备阶段1).gif",
+      "path": "memes/sleep/0152_睡觉(准备阶段1).gif",
+      "sha256": "0e164755df60cc1231e32b822d45ca2d43cfabf0b03c165d6e574c11a94ae9bb",
+      "frames": 99,
+      "duration_ms": 1980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 153,
+      "source_name": "NekoGirl_睡觉(准备阶段2)_2026-10-27-20-36-22.gif",
+      "category": "sleep",
+      "filename": "0153_睡觉(准备阶段2).gif",
+      "path": "memes/sleep/0153_睡觉(准备阶段2).gif",
+      "sha256": "74e2dbc703fb34f02b7161b61b2125483e61cd8fbf823e7decfee2fdb3f0f34b",
+      "frames": 99,
+      "duration_ms": 1980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 154,
+      "source_name": "NekoGirl_睡觉(普通)_2026-10-27-20-36-01.gif",
+      "category": "sleep",
+      "filename": "0154_睡觉(普通).gif",
+      "path": "memes/sleep/0154_睡觉(普通).gif",
+      "sha256": "352cf21e472f8e51ece0b505465d6e8736ad6fad39ef167cdd9a1529269f10c6",
+      "frames": 132,
+      "duration_ms": 2640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 155,
+      "source_name": "NekoGirl_碰鼻子_2026-10-27-20-01-26.gif",
+      "category": "surprised",
+      "filename": "0155_碰鼻子.gif",
+      "path": "memes/surprised/0155_碰鼻子.gif",
+      "sha256": "043a49c46716e4be7c5421cc65c3cfce58c7a19433ad2bb5ea87d10c5ca0df72",
+      "frames": 116,
+      "duration_ms": 2320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 156,
+      "source_name": "NekoGirl_礼物 1_2026-10-27-20-25-12.gif",
+      "category": "affection",
+      "filename": "0156_礼物 1.gif",
+      "path": "memes/affection/0156_礼物 1.gif",
+      "sha256": "9d6bdaa7e898d73a6237e225a2c5bd053398110a1ff3130c3d565521c424c5e6",
+      "frames": 86,
+      "duration_ms": 1720,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 157,
+      "source_name": "NekoGirl_礼物 2_2026-10-27-20-25-19.gif",
+      "category": "affection",
+      "filename": "0157_礼物 2.gif",
+      "path": "memes/affection/0157_礼物 2.gif",
+      "sha256": "676b6b5a2710b329b2195016900cba444211a1e5f052254e93f629331e49aeda",
+      "frames": 66,
+      "duration_ms": 1320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 158,
+      "source_name": "NekoGirl_礼物 3_2026-10-27-20-25-27.gif",
+      "category": "affection",
+      "filename": "0158_礼物 3.gif",
+      "path": "memes/affection/0158_礼物 3.gif",
+      "sha256": "d7adc3538e78049bdeb1341ab5c3183acb5aab2429754186d7078db8ecf60aa5",
+      "frames": 79,
+      "duration_ms": 1580,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 159,
+      "source_name": "NekoGirl_笑_2026-10-27-20-25-51.gif",
+      "category": "happy",
+      "filename": "0159_笑.gif",
+      "path": "memes/happy/0159_笑.gif",
+      "sha256": "4ab64ddb7000b14eb5586fa2e20bf9f6e4bb695dc5687e747906ee3f093156c8",
+      "frames": 49,
+      "duration_ms": 980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 160,
+      "source_name": "NekoGirl_笑(指)_2026-10-27-20-25-56.gif",
+      "category": "happy",
+      "filename": "0160_笑(指).gif",
+      "path": "memes/happy/0160_笑(指).gif",
+      "sha256": "922d1d58b3ee8f95c6bc7666d552fba94d8873cf01bc242dc62d62e0b29e9472",
+      "frames": 49,
+      "duration_ms": 980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 161,
+      "source_name": "NekoGirl_紧张 1_2026-10-27-21-07-16.gif",
+      "category": "surprised",
+      "filename": "0161_紧张 1.gif",
+      "path": "memes/surprised/0161_紧张 1.gif",
+      "sha256": "f0c6b5310668ea1dc941d4fa6a1e941eb954e06cb5f748f5d20cf3e15a32dd1d",
+      "frames": 59,
+      "duration_ms": 1180,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 162,
+      "source_name": "NekoGirl_紧张 2_2026-10-27-21-07-23.gif",
+      "category": "surprised",
+      "filename": "0162_紧张 2.gif",
+      "path": "memes/surprised/0162_紧张 2.gif",
+      "sha256": "a10b3422a0bd14bdc5058b124c4d5865445e5b36b5732d2964a1a539428456dc",
+      "frames": 59,
+      "duration_ms": 1180,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 163,
+      "source_name": "NekoGirl_红包 1_2026-10-27-20-59-07.gif",
+      "category": "money",
+      "filename": "0163_红包 1.gif",
+      "path": "memes/money/0163_红包 1.gif",
+      "sha256": "e164a43e7cba832ef18e2377f3eb15553fc568a9dae4c33a9ad861a276a9b9f4",
+      "frames": 49,
+      "duration_ms": 980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 164,
+      "source_name": "NekoGirl_红包 2_2026-10-27-20-33-45.gif",
+      "category": "money",
+      "filename": "0164_红包 2.gif",
+      "path": "memes/money/0164_红包 2.gif",
+      "sha256": "93feae3aa56ff098f3c961d996f4540dc9b5fdd47fec9ca122342d67b1fa2833",
+      "frames": 89,
+      "duration_ms": 1780,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 165,
+      "source_name": "NekoGirl_耶_2026-10-27-20-48-22.gif",
+      "category": "happy",
+      "filename": "0165_耶.gif",
+      "path": "memes/happy/0165_耶.gif",
+      "sha256": "241c5ac45baafa3bf931607455eeebfcdc6421851e3af915c33a683291286405",
+      "frames": 42,
+      "duration_ms": 840,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 166,
+      "source_name": "NekoGirl_胜利 1_2026-10-27-20-44-21.gif",
+      "category": "happy",
+      "filename": "0166_胜利 1.gif",
+      "path": "memes/happy/0166_胜利 1.gif",
+      "sha256": "795042add5482c23808b42996e57c28d68a810b4801a43f6db3ebb4b1959ea56",
+      "frames": 79,
+      "duration_ms": 1580,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 167,
+      "source_name": "NekoGirl_胶带_2026-10-27-20-40-45.gif",
+      "category": "teasing",
+      "filename": "0167_胶带.gif",
+      "path": "memes/teasing/0167_胶带.gif",
+      "sha256": "da8e3a2b3fe6b73be86fdc320fced49b31e06844aec4daf0cccc3fe06791f01c",
+      "frames": 69,
+      "duration_ms": 1380,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 168,
+      "source_name": "NekoGirl_自我安慰_2026-10-27-20-04-54.gif",
+      "category": "teasing",
+      "filename": "0168_自我安慰.gif",
+      "path": "memes/teasing/0168_自我安慰.gif",
+      "sha256": "ec2755a705a3001629ed2b220a70f1dc6bd7566de4e5ce6a5387cda591dda11d",
+      "frames": 92,
+      "duration_ms": 1840,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 169,
+      "source_name": "NekoGirl_舔(冰淇淋)_2026-10-27-20-26-07.gif",
+      "category": "food",
+      "filename": "0169_舔(冰淇淋).gif",
+      "path": "memes/food/0169_舔(冰淇淋).gif",
+      "sha256": "789dd88bfb9c5ac2a687928b1b87ae2d945fb2f3539d9f573544c926fa5565b9",
+      "frames": 32,
+      "duration_ms": 640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 170,
+      "source_name": "NekoGirl_舔(棒冰)_2026-10-27-21-14-16.gif",
+      "category": "food",
+      "filename": "0170_舔(棒冰).gif",
+      "path": "memes/food/0170_舔(棒冰).gif",
+      "sha256": "38c412447ea55ecd6772ad0e10c017be0c6644ed6107bd6441755e99df57d91d",
+      "frames": 32,
+      "duration_ms": 640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 171,
+      "source_name": "NekoGirl_舔舔_2026-10-27-20-26-03.gif",
+      "category": "food",
+      "filename": "0171_舔舔.gif",
+      "path": "memes/food/0171_舔舔.gif",
+      "sha256": "a063ff279d0d14c24a40a755c2cd87a8701a9509a81242fd1ddacee874a02390",
+      "frames": 49,
+      "duration_ms": 980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 172,
+      "source_name": "NekoGirl_舞蹈(散味)_2026-10-27-20-08-53.gif",
+      "category": "entertainment",
+      "filename": "0172_舞蹈(散味).gif",
+      "path": "memes/entertainment/0172_舞蹈(散味).gif",
+      "sha256": "44de578a3b6e91b045394ad31ea5b21a5464c37bcfa0f16fedc6b2db62c4711a",
+      "frames": 66,
+      "duration_ms": 1320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 173,
+      "source_name": "NekoGirl_茶 1_2026-10-27-20-40-53.gif",
+      "category": "food",
+      "filename": "0173_茶 1.gif",
+      "path": "memes/food/0173_茶 1.gif",
+      "sha256": "928acdd720bdd4a682dbea22e964a8aeb6c2b57a28cb0067a57218ed2e0f6da4",
+      "frames": 79,
+      "duration_ms": 1580,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 174,
+      "source_name": "NekoGirl_茶 2_2026-10-27-20-41-01.gif",
+      "category": "food",
+      "filename": "0174_茶 2.gif",
+      "path": "memes/food/0174_茶 2.gif",
+      "sha256": "63b74399e1dacb8cfabd4a8bd3f87687b2ebfffb735a5fdec3a78cf3fe3e43ff",
+      "frames": 79,
+      "duration_ms": 1580,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 175,
+      "source_name": "NekoGirl_茶 3_2026-10-27-20-41-14.gif",
+      "category": "food",
+      "filename": "0175_茶 3.gif",
+      "path": "memes/food/0175_茶 3.gif",
+      "sha256": "3829018ebde8caeb662dc5d77f1528e1b9cb05ee9f2c04891f4a53b26ec9c800",
+      "frames": 132,
+      "duration_ms": 2640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 176,
+      "source_name": "NekoGirl_荧光棒 1_2026-10-27-21-05-36.gif",
+      "category": "entertainment",
+      "filename": "0176_荧光棒 1.gif",
+      "path": "memes/entertainment/0176_荧光棒 1.gif",
+      "sha256": "b1fc7fe65cddf21b8698c3fdcf5ba1f27b25f5bbadb7578ff5649de3dc52cc66",
+      "frames": 49,
+      "duration_ms": 980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 177,
+      "source_name": "NekoGirl_荧光棒 2_2026-10-27-21-05-42.gif",
+      "category": "entertainment",
+      "filename": "0177_荧光棒 2.gif",
+      "path": "memes/entertainment/0177_荧光棒 2.gif",
+      "sha256": "70be468f9160c51b98c8478d5bb1ff8eac18c6bce6e054b6af218a59c2c7ab32",
+      "frames": 49,
+      "duration_ms": 980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 178,
+      "source_name": "NekoGirl_蛋糕_2026-10-27-20-02-20.gif",
+      "category": "food",
+      "filename": "0178_蛋糕.gif",
+      "path": "memes/food/0178_蛋糕.gif",
+      "sha256": "cefa490c7a8af587e4254d6fd584a5a7219ea29a57739fcb67a9bdcf1b069648",
+      "frames": 76,
+      "duration_ms": 1520,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 179,
+      "source_name": "NekoGirl_补水_2026-10-27-20-26-10.gif",
+      "category": "food",
+      "filename": "0179_补水.gif",
+      "path": "memes/food/0179_补水.gif",
+      "sha256": "f5b59cb26403297d4525f695f5ba053a1fdff017207f05b871abc842d927d5cd",
+      "frames": 16,
+      "duration_ms": 320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 180,
+      "source_name": "NekoGirl_被击中(Bits)_2026-10-27-20-26-31.gif",
+      "category": "sad",
+      "filename": "0180_被击中(Bits).gif",
+      "path": "memes/sad/0180_被击中(Bits).gif",
+      "sha256": "a7d48740565a18c0a9645c73dc35d62b11c951542730089acc248bf2ae353616",
+      "frames": 41,
+      "duration_ms": 820,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 181,
+      "source_name": "NekoGirl_被击中(拖鞋)_2026-10-27-20-28-43.gif",
+      "category": "sad",
+      "filename": "0181_被击中(拖鞋).gif",
+      "path": "memes/sad/0181_被击中(拖鞋).gif",
+      "sha256": "d7df3bdde75df324b29528338a98898aa09453a992479973e1eaeea7cf027e37",
+      "frames": 41,
+      "duration_ms": 820,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 182,
+      "source_name": "NekoGirl_被击中(爱心)_2026-10-27-21-06-30.gif",
+      "category": "affection",
+      "filename": "0182_被击中(爱心).gif",
+      "path": "memes/affection/0182_被击中(爱心).gif",
+      "sha256": "64d124650cebbb1efa3b90214c632b8b082dedc7f1463fbfdd1ca92bc8c3edad",
+      "frames": 41,
+      "duration_ms": 820,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 183,
+      "source_name": "NekoGirl_被击中(硬币)_2026-10-27-20-26-36.gif",
+      "category": "sad",
+      "filename": "0183_被击中(硬币).gif",
+      "path": "memes/sad/0183_被击中(硬币).gif",
+      "sha256": "623c12a9f11bcefe2ff719d3a35a05b63f83401106564ea1a2a2851b9349ad7d",
+      "frames": 41,
+      "duration_ms": 820,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 184,
+      "source_name": "NekoGirl_被击中(自定义)_2026-10-27-20-26-40.gif",
+      "category": "sad",
+      "filename": "0184_被击中(自定义).gif",
+      "path": "memes/sad/0184_被击中(自定义).gif",
+      "sha256": "60c0eee01e6c183f2467905110c1742f19d94ceb05da484a34a3921fa033d652",
+      "frames": 41,
+      "duration_ms": 820,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 185,
+      "source_name": "NekoGirl_要米_2026-10-27-21-09-12.gif",
+      "category": "money",
+      "filename": "0185_要米.gif",
+      "path": "memes/money/0185_要米.gif",
+      "sha256": "79191c8a3f30fe0426076def5941c37dc5c05f02460a4ef63a650a609f587201",
+      "frames": 82,
+      "duration_ms": 1640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 186,
+      "source_name": "NekoGirl_记录 1_2026-10-27-21-07-56.gif",
+      "category": "work",
+      "filename": "0186_记录 1.gif",
+      "path": "memes/work/0186_记录 1.gif",
+      "sha256": "eb37535ca98139cb7b1bd45afd3f538c07e25c0a114ec08e528a56ad5dfdb2fe",
+      "frames": 132,
+      "duration_ms": 2640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 187,
+      "source_name": "NekoGirl_记录 2_2026-10-27-21-08-02.gif",
+      "category": "work",
+      "filename": "0187_记录 2.gif",
+      "path": "memes/work/0187_记录 2.gif",
+      "sha256": "e31ec825575c9f2cc5ca960e63c65f44239775ab14de988ff684927098c7459a",
+      "frames": 49,
+      "duration_ms": 980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 188,
+      "source_name": "NekoGirl_跳舞 1_2026-10-27-20-07-49.gif",
+      "category": "entertainment",
+      "filename": "0188_跳舞 1.gif",
+      "path": "memes/entertainment/0188_跳舞 1.gif",
+      "sha256": "c063474798cb3d3d6c8d4b8350240ff1048134f51820cee2c5917be290bfbfed",
+      "frames": 99,
+      "duration_ms": 1980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 189,
+      "source_name": "NekoGirl_跳舞(Caramelldansen)_2026-10-27-20-07-57.gif",
+      "category": "entertainment",
+      "filename": "0189_跳舞(Caramelldansen).gif",
+      "path": "memes/entertainment/0189_跳舞(Caramelldansen).gif",
+      "sha256": "23d4464974c3f4edbc7c48e980ca28f479ac020033203b4cc1cd6e62878dbe8b",
+      "frames": 66,
+      "duration_ms": 1320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 190,
+      "source_name": "NekoGirl_跳舞(Helltaker)_2026-10-27-20-08-02.gif",
+      "category": "entertainment",
+      "filename": "0190_跳舞(Helltaker).gif",
+      "path": "memes/entertainment/0190_跳舞(Helltaker).gif",
+      "sha256": "bf8b16602ebafd97de46517c5d8c8f17302ca872c21cef29a6bb74b7d6c7e0b5",
+      "frames": 49,
+      "duration_ms": 980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 191,
+      "source_name": "NekoGirl_跳舞(低皮质醇)_2026-10-27-20-08-10.gif",
+      "category": "entertainment",
+      "filename": "0191_跳舞(低皮质醇).gif",
+      "path": "memes/entertainment/0191_跳舞(低皮质醇).gif",
+      "sha256": "07943599c8f24f8f404d149399e550f51e1cc1f3c7b36624db7f56015078da03",
+      "frames": 66,
+      "duration_ms": 1320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 192,
+      "source_name": "NekoGirl_通知_提示 Bits_2026-10-27-19-56-41.gif",
+      "category": "greeting",
+      "filename": "0192_通知_提示 Bits.gif",
+      "path": "memes/greeting/0192_通知_提示 Bits.gif",
+      "sha256": "e64c141b86bd8488778dc118bb4eb68f7765ee13cd54bc2228edb6c04ed7e4e0",
+      "frames": 86,
+      "duration_ms": 1720,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 193,
+      "source_name": "NekoGirl_通知_提示 星星_收藏_2026-10-27-19-57-43.gif",
+      "category": "greeting",
+      "filename": "0193_通知_提示 星星_收藏.gif",
+      "path": "memes/greeting/0193_通知_提示 星星_收藏.gif",
+      "sha256": "b27e6b4f42eebe864772c184c1efdef919aaeaa73e49fbe0e4e393a92c6be99f",
+      "frames": 86,
+      "duration_ms": 1720,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 194,
+      "source_name": "NekoGirl_通知_提示 点赞_2026-10-27-19-57-36.gif",
+      "category": "greeting",
+      "filename": "0194_通知_提示 点赞.gif",
+      "path": "memes/greeting/0194_通知_提示 点赞.gif",
+      "sha256": "fc8539190d76a668f2573c182603e98754e564f73b931acffa6b23e02a4963c3",
+      "frames": 86,
+      "duration_ms": 1720,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 195,
+      "source_name": "NekoGirl_通知_提示 爱心_喜欢_2026-10-27-19-57-04.gif",
+      "category": "greeting",
+      "filename": "0195_通知_提示 爱心_喜欢.gif",
+      "path": "memes/greeting/0195_通知_提示 爱心_喜欢.gif",
+      "sha256": "46f0456eb74b5ce868e624a4cc9f3b27a52597fae5195f200a1638324cb62d14",
+      "frames": 86,
+      "duration_ms": 1720,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 196,
+      "source_name": "NekoGirl_通知_提示 硬币_2026-10-27-19-56-56.gif",
+      "category": "greeting",
+      "filename": "0196_通知_提示 硬币.gif",
+      "path": "memes/greeting/0196_通知_提示 硬币.gif",
+      "sha256": "c50ef6b6ef6d693fd3a10393fe1c9da9c984e325ee9bc756661bba97511dff41",
+      "frames": 86,
+      "duration_ms": 1720,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 197,
+      "source_name": "NekoGirl_通知_自定义_2026-10-27-19-56-49.gif",
+      "category": "greeting",
+      "filename": "0197_通知_自定义.gif",
+      "path": "memes/greeting/0197_通知_自定义.gif",
+      "sha256": "bfe4adaefd5a010284a1800fb9abd490d7715477ea7ca68d5ea647fa051c9a9b",
+      "frames": 86,
+      "duration_ms": 1720,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 198,
+      "source_name": "NekoGirl_钱_2026-10-27-21-08-16.gif",
+      "category": "money",
+      "filename": "0198_钱.gif",
+      "path": "memes/money/0198_钱.gif",
+      "sha256": "bc35fc79fa0598a51b7afd965d1f76d4fb311229361968f12f950c42142bf8de",
+      "frames": 49,
+      "duration_ms": 980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 199,
+      "source_name": "NekoGirl_问号_2026-10-27-20-32-51.gif",
+      "category": "confused",
+      "filename": "0199_问号.gif",
+      "path": "memes/confused/0199_问号.gif",
+      "sha256": "63ac2aecaa6ffc3b76989684b1b3d087b5db8de3b970900cd78f5220f917be5a",
+      "frames": 57,
+      "duration_ms": 1140,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 200,
+      "source_name": "NekoGirl_雨刮器尾巴_2026-10-27-20-40-15.gif",
+      "category": "entertainment",
+      "filename": "0200_雨刮器尾巴.gif",
+      "path": "memes/entertainment/0200_雨刮器尾巴.gif",
+      "sha256": "54ce2a1d3b5d6241db6f444e475c9f64a357fb2cdac49c742ec984c4074bc864",
+      "frames": 49,
+      "duration_ms": 980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 201,
+      "source_name": "NekoGirl_静音 1_2026-10-27-21-07-00.gif",
+      "category": "reply",
+      "filename": "0201_静音 1.gif",
+      "path": "memes/reply/0201_静音 1.gif",
+      "sha256": "b3aa808548568e5aa9478d0267cca2fadf14a49f56b3c881976b09ff89f686f8",
+      "frames": 49,
+      "duration_ms": 980,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 202,
+      "source_name": "NekoGirl_静音 2_2026-10-27-21-07-09.gif",
+      "category": "reply",
+      "filename": "0202_静音 2.gif",
+      "path": "memes/reply/0202_静音 2.gif",
+      "sha256": "9b807bee555afcd140d4b665246ba4269181ba4bac51a81e6b97113770635f9c",
+      "frames": 82,
+      "duration_ms": 1640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 203,
+      "source_name": "NekoGirl_音乐 1_2026-10-27-21-12-57.gif",
+      "category": "entertainment",
+      "filename": "0203_音乐 1.gif",
+      "path": "memes/entertainment/0203_音乐 1.gif",
+      "sha256": "633677a8c55e66d34c3cda20d6f32805f7b8acf58e9460a6b4fe61771487ff2c",
+      "frames": 79,
+      "duration_ms": 1580,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 204,
+      "source_name": "NekoGirl_音乐 2_2026-10-27-21-13-06.gif",
+      "category": "entertainment",
+      "filename": "0204_音乐 2.gif",
+      "path": "memes/entertainment/0204_音乐 2.gif",
+      "sha256": "fb2e242ce7ca11e2ad573d9ae2fcd939739337d31bc02fa0b28b4a5f242ec0bf",
+      "frames": 79,
+      "duration_ms": 1580,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 205,
+      "source_name": "NekoGirl_音乐 3_2026-10-27-21-13-10.gif",
+      "category": "entertainment",
+      "filename": "0205_音乐 3.gif",
+      "path": "memes/entertainment/0205_音乐 3.gif",
+      "sha256": "6a405b63d345fc2a2d7364a12a6892bed137e8dc16405e932a6c57a8ccc30ecb",
+      "frames": 32,
+      "duration_ms": 640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 206,
+      "source_name": "NekoGirl_饮料(能量饮料1)_2026-10-27-20-11-27.gif",
+      "category": "food",
+      "filename": "0206_饮料(能量饮料1).gif",
+      "path": "memes/food/0206_饮料(能量饮料1).gif",
+      "sha256": "ffd4f14fb0685712e40b506ee9a58efc31448b2bd2bf1df39f92db9cd50911a9",
+      "frames": 22,
+      "duration_ms": 440,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 207,
+      "source_name": "NekoGirl_饮料(能量饮料2)_2026-10-27-20-11-34.gif",
+      "category": "food",
+      "filename": "0207_饮料(能量饮料2).gif",
+      "path": "memes/food/0207_饮料(能量饮料2).gif",
+      "sha256": "636495e600f2ba63e780678a1c8643effa9333193292768b2109271958e04397",
+      "frames": 66,
+      "duration_ms": 1320,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 208,
+      "source_name": "NekoGirl_馋(刀叉)_2026-10-27-20-12-04.gif",
+      "category": "food",
+      "filename": "0208_馋(刀叉).gif",
+      "path": "memes/food/0208_馋(刀叉).gif",
+      "sha256": "c0a496ecd76f8660ece15151bee44a61dcd9a4aee23ad5dc738e01a6252ae5fb",
+      "frames": 32,
+      "duration_ms": 640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 209,
+      "source_name": "NekoGirl_馋(筷子)_2026-10-27-20-12-00.gif",
+      "category": "food",
+      "filename": "0209_馋(筷子).gif",
+      "path": "memes/food/0209_馋(筷子).gif",
+      "sha256": "bd0cc9520dd6edd054cca16f6cd696cbba0a3955f5ac1182721bb6de7a0a6541",
+      "frames": 32,
+      "duration_ms": 640,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 210,
+      "source_name": "NekoGirl_驾驶_2026-10-27-20-11-38.gif",
+      "category": "entertainment",
+      "filename": "0210_驾驶.gif",
+      "path": "memes/entertainment/0210_驾驶.gif",
+      "sha256": "83437b236e523ff75ba4888b240d9a5ddff1404ad041030b76acb3ccc9fcbb14",
+      "frames": 26,
+      "duration_ms": 520,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 211,
+      "source_name": "NekoGirl_魔法_2026-10-27-21-11-47.gif",
+      "category": "entertainment",
+      "filename": "0211_魔法.gif",
+      "path": "memes/entertainment/0211_魔法.gif",
+      "sha256": "a80fa1c83e8758818e7d712cdb889000348932eae046f963c421e7bf045bc956",
+      "frames": 32,
+      "duration_ms": 640,
+      "size": [
+        1024,
+        1024
+      ]
+    }
+  ]
+}
